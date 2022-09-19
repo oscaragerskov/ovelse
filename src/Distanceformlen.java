@@ -6,10 +6,10 @@ public class Distanceformlen {
         System.out.println("Indsæt dine værdier i formlen: dist(P,l)=((a*x1+b-y1*c))/(kvadratrod a^2+b)");
 
         System.out.println("indsæt y værdien til linje");
-        double y1 = input.nextInt();
+        double x1 = input.nextInt();
 
         System.out.println("indsæt x værdien til linje");
-        double x1 = input.nextInt();
+        double y1 = input.nextInt();
 
         System.out.println("indsæt a værdien til punkt");
         double a = input.nextInt();
@@ -24,4 +24,4 @@ public class Distanceformlen {
         System.out.println(Math.abs((a*x1+b*y1+c))/Math.sqrt(a*a+b*b));
     }
 }
-// Dette er bare en kommentar.
+
