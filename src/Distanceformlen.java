@@ -14,7 +14,7 @@ public class Distanceformlen {
         System.out.println("indsæt a værdien til punkt");
         double a = input.nextInt();
 
-        System.out.println("indsæt b værdien til punkt");
+        System.out.println("indsættil punkt");
         double b = input.nextInt();
 
         System.out.println("indsæt c værdien til punkt");
