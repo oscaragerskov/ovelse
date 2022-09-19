@@ -6,7 +6,7 @@ public class Distanceformlen {
         System.out.println("Indsæt dine værdier i formlen: dist(P,l)=((a*x1+b-y1*c))/(kvadratrod a^2+b)");
 
         System.out.println("indsæt y værdien til linje");
-        double x2 = input.nextInt();
+        double x1 = input.nextInt();
 
         System.out.println("indsæt x værdien til linje");
         double y1 = input.nextInt();
