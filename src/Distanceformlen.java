@@ -21,7 +21,7 @@ public class Distanceformlen {
         double c = input.nextInt();
 
         System.out.println("Dit resultat: ");
-        System.out.println(Math.abs((a*x1+b*y1+c))/Math.sqrt(a*a+b*b));
+        System.out.println(Math.abs((a*x1+b*y1+c))/Math.sqrt(a*a+b*b))
     }
 }
 
