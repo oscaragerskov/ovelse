@@ -20,8 +20,12 @@ public class Distanceformlen {
         System.out.println("indsæt c værdien til punkt");
         double c = input.nextInt();
 
+
+
         System.out.println("Dit resultat: ");
         System.out.println(Math.abs((a*x1+b*y1+c))/Math.sqrt(a*a+b*b));
     }
+
+
 }
 
