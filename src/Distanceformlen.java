@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Distanceformlen {
     public static void main(String[] args) {
-        Scanner input= new Scanner(System.in);
+
 
         System.out.println("Indsæt dine værdier i formlen: dist(P,l)=((a*x1+b-y1*c))/(kvadratrod a^2+b)");
 
