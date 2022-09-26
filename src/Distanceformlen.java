@@ -7,6 +7,7 @@ public class Distanceformlen {
 
 
 
+
         System.out.println("indsæt x værdien til linje");
         double x1 = input.nextInt();
 
